@@ -10,6 +10,8 @@ desktop.ini
 
 # 依赖与构建产物
 node_modules/
+.next/
+out/
 dist/
 build/
 __pycache__/
